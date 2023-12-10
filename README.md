@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Tralius
-- 👀 I’m interested in Web development, Bioinformatics and Game development.
-- 🌱 I’m currently learning responsive UI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Tralius a computer science student passionate about the life sciences and how to use technology to further understand and improve them.
+- 👀 I’m interested in Neurotechnology, Bioinformatics, and Game development.
+- 🌱 I’m currently learning how to contribute in the fields of computational neuroscience, neuromorphic computing, and brain-computer interfaces.
 
 <!---
 Tralius/Tralius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
